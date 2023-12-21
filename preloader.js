@@ -77,7 +77,7 @@ const animationData = {
 
   autoplay: true, // Set to true if you want the animation to start automatically
 
-  path: "https://lottie.host/embed/a1647a9d-4121-4792-a9c8-5f2c7a344c81/I6gL7sXmKe.json", // Replace with the actual URL of your Lottie JSON file
+  path: "/loading.json", // Replace with the actual URL of your Lottie JSON file
 };
 
 const anim = lottie.loadAnimation(animationData);
