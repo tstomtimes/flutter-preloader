@@ -77,7 +77,7 @@ const animationData = {
 
   autoplay: true, // Set to true if you want the animation to start automatically
 
-  path: "/loading.json", // Replace with the actual URL of your Lottie JSON file
+  path: "https://cdn.jsdelivr.net/gh/tstomtimes/flutter-preloader@main/loading.json", // Replace with the actual URL of your Lottie JSON file
 };
 
 const anim = lottie.loadAnimation(animationData);
